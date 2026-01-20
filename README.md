@@ -2,9 +2,8 @@
 
 **Site Reliability Engineer** focused on keeping services reliable, observable, and calm under pressure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ibukuntaiwo.com-C9A962?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibukuntaiwo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ibukuntaiwo.com-C9A962?style=for-the-badge&logo=google-chrome&logoColor=white)](https://resume.ibukuntaiwo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibukunoluwa_Taiwo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibukuntaiwoa)
-[![Blog](https://img.shields.io/badge/Blog-Technical_Writing-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://ibukuntaiwo.com/blog)
 
 ## About Me
 
@@ -60,18 +59,13 @@ Previously blended Support and DevOps in banking at **Stanbic IBTC**. Now buildi
 - **SLIs/SLOs** — Define and track reliability metrics that matter
 - **Automation** — Self-healing jobs, deployment pipelines, infrastructure as code
 
-## Latest Blog Posts
-
-- [Building a Real-Time Chat App with WebSockets](https://ibukuntaiwo.com/blog/building-realtime-chat-websockets)
-- [AI-Powered Code Reviews: The Future or Just Hype?](https://ibukuntaiwo.com/blog/ai-powered-code-reviews)
-- [The Art of Side Projects: Building for Joy](https://ibukuntaiwo.com/blog/art-of-side-projects)
 
 ## Let's Connect
 
-- **Portfolio:** [ibukuntaiwo.com](https://ibukuntaiwo.com)
+- **Portfolio:** [resume.ibukuntaiwo.com](https://resume.ibukuntaiwo.com)
+- **Website:** [ibukuntaiwo.com](https://ibukuntaiwo.com)
 - **Email:** ibukuntaiwoa@gmail.com
 - **Resume:** [Download CV](https://ibukuntaiwo.com/Ibukunoluwa_Taiwo_CV.pdf)
 
 ---
 
-*Building cool stuff, experimenting with code, and sharing thoughts about tech, life, and everything in between.*
